@@ -2,7 +2,7 @@
   "name": "spotify-look-up",
   "version": "1.0.0",
   "description": "A test for recruitment at Compucorp",
-  "main": "app/app.js",
+  "main": "app/app.module.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "http-server ./app -a localhost -p 8000 -c-1"
